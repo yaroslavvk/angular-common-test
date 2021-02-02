@@ -10,4 +10,4 @@ import { DumpComponent } from './dump/dump.component';
     CommonModule
   ]
 })
-export class SharedModule { }
+export class SharedMainModule { }
